@@ -29,6 +29,7 @@
 #include <sstream>
 #include <clocale>
 #include <limits>
+#include <cstdint>
 
 namespace json11 {
 
